@@ -4,12 +4,14 @@ package Figuras;
  *
  * @author itzel
  */
-public class cuadradro {
-    double altura, base, area;
-    Rectagulo(double a, double b, double c)
+public class cuadrado {
+    double lado*lado , base, area;
+    Cuadrado (double a, double b, double c)
     {
         this.altura=a;
         this.base=b;
-        this.area=c;
+        this.area=c; 
+        this.perimetro=d;
+        
         
     }
