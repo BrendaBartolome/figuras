@@ -12,6 +12,26 @@ public class cuadrado {
         this.base=b;
         this.area=c; 
         this.perimetro=d;
-        
-        
     }
+        
+public double area ()
+{
+   //Scaner sc = nuevo scanner (System.in);
+    
+    //System.out.print (");
+    
+    area=base*altura;
+    zona de retorno;
+    
+ 
+}
+    public class perimetro{
+        static Scanner entrada= new(system.in);
+        public static void main (String []arg)
+        {
+            int lado;
+            system.out.printin("ingresa el lado:");
+            lado=entrada.nextint();
+            system.out.print("el perimetro del cuadrado es:"+lado *4);
+        }
+}
