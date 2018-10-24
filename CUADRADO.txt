@@ -1,0 +1,42 @@
+El cuadrado es una figura geométrica que pertenece a los paralelogramos porque tiene 4 lados.cuadrado
+
+Los 4 lados miden lo mismo y son paralelos dos a dos. ¿Esto que quiere decir? Que tiene 2 lados paralelos entre sí, y los otros 2 también son paralelos entre sí.cuadrado lados paralelos
+
+Los 4 ángulos internos de un cuadrado miden 90º, es decir, son ángulos rectos. La suma de los 4 ángulos internos es de 360º.
+
+Los 4 ángulos externos miden 270º.cuadrado angulos rectos
+
+Las dos diagonales que tienen son iguales y el punto donde se cortan las dos diagonales es el centro de simetría del cuadrado.
+
+cuadrado diagonales.
+
+
+
+
+PERÍMETRO  
+
+El perímetro de un cuadrado es cuatro veces el valor del lado
+
+    P = 4 · a
+
+ 
+
+ÁREA
+
+El área de un cuadrado es igual al cuadrado de la longitud del lado.  
+
+A= a2
+
+ 
+
+Propiedades del Cuadrado
+-El cuadrado es un paralelogramo porque tiene 4 lados. Sus lados son opuestos y paralelos 2 a dos.
+
+
+-El cuadrado tiene 2 diagonales.
+-Sus diagonales forman 4 triángulos iguales.
+-Sus diagonales son del mismo tamaño.
+-El lugar donde se cortan sus diagonales se llama centro de simetría del cuadrado.
+
+
+-Cualquier línea paralela a cualquier lado que pase por el centro de simetría, parte el cuadrado en 2 partes iguales.
