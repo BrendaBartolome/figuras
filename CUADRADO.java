@@ -4,7 +4,7 @@ package Figuras;
  *
  * @author itzel
  */
-public class Rectagulo {
+public class cuadradro {
     double altura, base, area;
     Rectagulo(double a, double b, double c)
     {
